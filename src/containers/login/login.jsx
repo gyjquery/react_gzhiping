@@ -49,7 +49,7 @@ export default class Register extends Component{
                 <WhiteSpace/>
                 <Button type="primary" onClick={this.login}>登录</Button>
                 <WhiteSpace/>
-                <Button type="primary" onClick={this.toMain}>dev已有账号</Button>
+                <Button type="primary" onClick={this.toMain}>我一直都在dev</Button>
             </div>
         )
     }

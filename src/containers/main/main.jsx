@@ -4,7 +4,10 @@ export default class main extends Component{
   render(){
     return(
 
-       <Button type="primary">master6 用户登录中心</Button>
+
+       <Button type="primary">dev8 用户登录中心</Button>
+
+
 
     )
   }
